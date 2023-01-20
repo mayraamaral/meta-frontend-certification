@@ -4,4 +4,4 @@ Studies from Meta's Frontend Certification
 
 Notes:
 
-1. Course 1: Introduction to Web Development
+1. [Course - Introduction to Web Development](https://github.com/mayraamaral/meta-frontend-certification/tree/main/course-1-intro-to-web-dev)
